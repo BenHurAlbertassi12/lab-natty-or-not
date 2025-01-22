@@ -1,7 +1,7 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Durante minha participação no bootcamp Python AI Backend Developer, fui desafiado a explorar o fascinante universo das IAs Generativas. De textos a imagens, áudios e vídeos, mergulhei de cabeça na criação de conteúdos realistas e impactantes. Como parte desse aprendizado, desenvolvi um vídeo destacando a importância dos jogos indies, unindo criatividade e tecnologia para dar vida a ideias inovadoras. Confira o resultado dessa jornada transformadora e inspiradora!
+Durante minha participação no Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3, fui desafiado a explorar o fascinante universo das IAs Generativas. 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e arte visual;
