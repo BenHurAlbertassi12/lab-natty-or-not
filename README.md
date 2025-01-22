@@ -42,7 +42,7 @@ Uau, isso vai mudar tudo. Acho que vou começar a estudar mais sobre IA generati
 **Personagem 2**: (Sorrindo)  
 Boa ideia! É o futuro da tecnologia e da criatividade. Bem-vindo ao mundo das possibilidades infinitas!  
 
-
+![Conversa sobre IA generativa](https://example.com/ia_conversa.png)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
